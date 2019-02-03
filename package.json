@@ -1,0 +1,17 @@
+{
+  "name": "make-ohio",
+  "version": "1.0.0",
+  "description": "home automation system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "noble": "^1.9.1",
+    "onoff": "^3.2.2",
+    "request": "^2.88.0"
+  }
+}
